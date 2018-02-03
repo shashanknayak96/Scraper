@@ -1,8 +1,7 @@
 # Scraper
 A scraper to scrap a placement website and send email regarding the same...
 
-So basically I tried to scrap the following website
-[The placement page](http://www.pvppcoe.ac.in/placement-notice)
+So basically I tried to scrap from [the placement page](http://www.pvppcoe.ac.in/placement-notice)
 
 The scraper would scrap the most recent data (Provided that the scrapper keeps running continously... More on that later) and sends an email about the same. 
 
